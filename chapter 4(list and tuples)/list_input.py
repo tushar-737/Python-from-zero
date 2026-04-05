@@ -1,0 +1,2 @@
+list=[input("Enter first fruit name: "),input("Enter second fruit name: "),input("Enter third fruitname: "),input("Enter fourth fruit name: "),input("Enter fifth fruit name: "),input("Enter sixth fruit name: "),input("Enter seventh fruit name: ")]
+print("The fruit names you entered are:",list)

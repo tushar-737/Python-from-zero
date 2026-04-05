@@ -1,0 +1,1 @@
+print('''Hello! \n\t This is Tushar Gupta. \n Thaanks!.''')

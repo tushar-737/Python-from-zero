@@ -1,0 +1,11 @@
+list=[]
+list.append(int(input("1'st student marks: ")))
+list.append(int(input("2'nd student marks: ")))
+list.append(int(input("3'rd student marks: ")))
+list.append(int(input("4'th student marks: ")))
+list.append(int(input("5'th student marks: ")))
+list.append(int(input("6'th student marks: ")))
+list.append(int(input("7'th student marks: ")))
+print("The marks of students are:", list)
+list.sort()
+print("The sorted marks of students are:", list)

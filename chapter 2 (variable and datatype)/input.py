@@ -1,0 +1,6 @@
+x=input("Enter a number: ")
+y=input("Enter another number: ")
+print("Concatenated String:", x+y)
+a=int(input("Enter a number: "))
+b=int(input("Enter another number: "))
+print("Sum:", a+b)

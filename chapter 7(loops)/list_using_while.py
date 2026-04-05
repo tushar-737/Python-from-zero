@@ -1,0 +1,9 @@
+list=["tushar","sachin","rahul","rohit"]
+i=0
+while(i<4):
+    print(list[i])
+    i+=1
+i=0
+while(i<len(list)):
+    print(list[i])
+    i+=1
