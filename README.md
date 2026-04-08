@@ -11,7 +11,7 @@ Repository Structure
 - Chapter 4 – Lists and Tuples
 - Chapter 5 – Dictionary and Sets 
 - Chapter 6 – Conditional Expressions
-- Chapter 7 – Loops
+- Chapter 7 – Loops 
 - Chapter 8 – Functions and Recursion
 - Chapter 9 – File Handling (I/O Files)
 - Chapter 10 – Object-Oriented Programming (OOPs)
